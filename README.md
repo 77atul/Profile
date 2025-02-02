@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Myself Computer Engineer from Mumbai<br><br>🌱 I’m currently learning Oops in Java<br><br>💬 Ask me about Web Dev, Java, Cloud Computing, Aws, Docker, K8<br><br>📫 How to reach me atul.yadav44209@gmail.com<br><br>⚡ Fun fact I am funny<br>
+🌱 I’m currently learning Oops in Java<br><br>💬 Ask me about Web Dev, Java, Cloud Computing, Aws, Docker, K8<br><br>📫 How to reach me atul.yadav44209@gmail.com<br><br>⚡ Fun fact I am funny<br>
 
 
 ## 🌐 Socials:
